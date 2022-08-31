@@ -1,0 +1,7 @@
+{
+    "posts": [
+        { "id": 1, "title": "Заголовок первой новости ", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
+        { "id": 2, "title": "Заголовок второй новости", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." },
+        { "id": 3, "title": "Заголовок третьей новости", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." }
+    ]
+}
